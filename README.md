@@ -6,4 +6,4 @@ Usuario Dockehub "winderley" acesso ao container winderley/codeeducation.
 
 EXECUÇÃO
 
-Comando "docker run winderley:codeeducation"
+Comando "docker run winderley/codeeducation"
